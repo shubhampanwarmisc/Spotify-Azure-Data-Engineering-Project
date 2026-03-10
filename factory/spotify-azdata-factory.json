@@ -1,0 +1,9 @@
+{
+	"name": "spotify-azdata-factory",
+	"location": "uaenorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "45d64445-cb42-484a-9dc3-3595794fc582",
+		"tenantId": "09bd1956-edda-4e9a-9543-7c7aa2cf4e81"
+	}
+}
